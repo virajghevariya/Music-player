@@ -14,22 +14,22 @@ const nextBtn = document.getElementById('next');
 let songs = [
     {
         name : "p1",
-        displayName : "Prem Ratan Dhan Payo",
+        displayName : "vd-1",
         artist : "VD",
     },
     {
         name : "p2",
-        displayName : "Jalte Diye",
+        displayName : "vd-2",
         artist : "VD/J",
     },
     {
         name : "p3",
-        displayName : "Halo Re",
+        displayName : "vd-3",
         artist : "VD/H",
     },
     {
         name : "p4",
-        displayName : "Aaj Unse Milna Hai",
+        displayName : "metric-1",
         artist : "VD/A",
     },
 ];
